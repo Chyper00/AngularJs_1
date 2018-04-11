@@ -11,5 +11,10 @@ Download Xampp -> https://www.apachefriends.org/pt_br/download.html
 <strong>Entendendo o framework</strong>
 
 <p>O angulars é um framework javascript criado pelo Miško Hevery e Adam Abrons, atualmente a ferramenta é mantida pela Google.
+O angular segue os padrões MVC/MVVM/MVP/MVW e usa o conceito de SPA (Single Page Application).</p>
 
-O angular segue os padrões MVC/MVVM/MVP/MVW e usa o conceito de SPA (Single Page Application)</p>
+
+<strong>MVC? MVVM? MVP? MVW?</strong>
+
+<img scr="https://i.imgflip.com/106asd.jpg">
+  
