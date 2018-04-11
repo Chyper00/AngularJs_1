@@ -35,6 +35,7 @@ O angular segue os padrões MVC/MVVM/MVP/MVW e usa o conceito de SPA (Single Pag
 
 <img src ="http://i0.kym-cdn.com/photos/images/newsfeed/000/840/284/995">
 
-<p>Após toda essa sopinha de letras, o que realmente importa para nós é o padrão MVC, que é conhecido pela maioria dos desenvolvedores e adotado pela maioria dos frameworks.</p>
+<p>Após toda essa sopinha de letras, o que realmente importa para nós é o padrão MVC, que é conhecido pela maioria dos desenvolvedores e adotado pela maioria dos frameworks.</p><br>
 
 
+<img src="https://cdn-images-1.medium.com/max/800/1*0rb6xMqFKDTbYvB5jAooNA.gif">
