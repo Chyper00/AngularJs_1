@@ -5,7 +5,7 @@ Download Sublime Text3 -> https://www.sublimetext.com/3<br>
 Download Xampp -> https://www.apachefriends.org/pt_br/download.html
 <hr> 
 
-<img src = "https://cdn-images-1.medium.com/max/800/1*iOmwue1uxW2O6sbDUEItPw.jpeg">
+<img src = "https://i.ytimg.com/vi/eeEyVZiVW_M/hqdefault.jpg">
 
 
 <strong>Entendendo o framework</strong>
