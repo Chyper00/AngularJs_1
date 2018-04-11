@@ -16,5 +16,5 @@ O angular segue os padrões MVC/MVVM/MVP/MVW e usa o conceito de SPA (Single Pag
 
 <strong>MVC? MVVM? MVP? MVW?</strong>
 
-<img scr="https://i.imgflip.com/106asd.jpg">
+<img scr="https://imgflip.com/106asd.jpg">
   
