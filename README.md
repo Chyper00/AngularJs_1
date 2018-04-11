@@ -5,7 +5,7 @@ Download Sublime Text3 -> https://www.sublimetext.com/3<br>
 Download Xampp -> https://www.apachefriends.org/pt_br/download.html
 <hr> 
 
-<img src = "https://i.ytimg.com/vi/eeEyVZiVW_M/hqdefault.jpg">
+<img src = "https://media.learncafe.co/courses/17679_0.jpg">
 
 
 <strong>Entendendo o framework</strong>
@@ -16,5 +16,5 @@ O angular segue os padrões MVC/MVVM/MVP/MVW e usa o conceito de SPA (Single Pag
 
 <strong>MVC? MVVM? MVP? MVW?</strong>
 
-<img scr="https://i.ytimg.com/vi/eeEyVZiVW_M/hqdefault.jpg">
+<img scr="https://pbs.twimg.com/media/DMdhkyfV4AA6521.jpg">
   
