@@ -56,5 +56,5 @@ SPA ou (Single Page Application) é uma forma de desenvolvermos uma aplicação 
 Como visto anteriormente, o angularjs é um framework javascript que visa facilitar a criação de SPA’s, possibilitando um desenvolvimento rápido e eficiente. Atualmente ele se encontra na versão 1.5.x, mas a versão 2 já se encontra disponível e totalmente reformulada.</p>
 
 
-texto por Hudson Brendon
+texto por <href ="https://medium.com/@hudsonbrendon?source=post_header_lockup">Hudson Brendon</a>
 fonte : https://medium.com/@hudsonbrendon/angularjs-series-entendendo-o-framework-1499a841d51f 
