@@ -7,4 +7,4 @@ Download Xampp -> https://www.apachefriends.org/pt_br/download.html
 <hr> 
 
 <br>
-<iframe src="https://medium.com/@hudsonbrendon/angularjs-series-entendendo-o-framework-1499a841d51f"></iframe>
+<embed src="https://medium.com/@hudsonbrendon/angularjs-series-entendendo-o-framework-1499a841d51f">
