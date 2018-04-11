@@ -39,3 +39,16 @@ O angular segue os padrões MVC/MVVM/MVP/MVW e usa o conceito de SPA (Single Pag
 
 
 <img src="https://cdn-images-1.medium.com/max/800/1*0rb6xMqFKDTbYvB5jAooNA.gif">
+
+
+<p>No padrão MVC, temos uma clara separação de responsabilidades, onde, o controller tem como função manipular os dados que se encontram no model e que vão ser representado na view que é uma espécie de ‘espelho’ para os models, tudo isso graças ao two way binding.</p>
+
+<p>No two-way data binding, as alterações na view são refletidas na fonte de dados e atualizações na fonte refletem na view sem a necessidade de manipulação explícita do DOM, facilitando e muito a nossa vida com isso.</p>
+
+<p>Single Page Application
+SPA ou (Single Page Application) é uma forma de desenvolvermos uma aplicação inteira apenas em uma página. WTF? Sim, apenas em uma página.</p>
+
+<p>Com SPA, conseguimos criar um esquema de rotas, que quando solicitadas, atualizam apenas partes da página, mantendo sempre a mesma base. Em resumo, em aplicações SPA apenas parte da view precisa ser alterada, mantendo-se todo o restante intacto, melhorando com isso a experiência de usuário e diminuindo o tráfego de requisições.</p>
+
+<p>Conclusão
+Como visto anteriormente, o angularjs é um framework javascript que visa facilitar a criação de SPA’s, possibilitando um desenvolvimento rápido e eficiente. Atualmente ele se encontra na versão 1.5.x, mas a versão 2 já se encontra disponível e totalmente reformulada.</p>
