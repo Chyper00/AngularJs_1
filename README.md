@@ -31,3 +31,10 @@ O angular segue os padrões MVC/MVVM/MVP/MVW e usa o conceito de SPA (Single Pag
 
 <strong>MVW</strong>
 <p>O MVW significa Model View Whatever, ou seja, tanto faz qual padrão você acha que vai programar em angularjs, pare de perder tempo com isso, apenas faça.</p>
+
+
+<img src ="http://i0.kym-cdn.com/photos/images/newsfeed/000/840/284/995">
+
+<p>Após toda essa sopinha de letras, o que realmente importa para nós é o padrão MVC, que é conhecido pela maioria dos desenvolvedores e adotado pela maioria dos frameworks.</p>
+
+
